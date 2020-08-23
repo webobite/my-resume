@@ -1,0 +1,161 @@
+{
+  "main": {
+    "name":"Hi This is Subham",
+    "description":"I’m experienced in highly driven and well-versed in Restful architecture. As a part of experience I have built highly scalable web app API's that scaled to over large no of users and drove the product vision as specified by the organization. I am a quick learner with diverse area of experience in start up eco system too",
+    "image":"myprofile.jpeg",
+    "bio":"I am working as a full stack developer Intern in TS Digisol. I work extensively in field of full stack technology as React Js for front end web development and also React Native for Mobile app development.",
+    "contactmessage":"Here You can connect with me.",
+    "email": "singhsubham510@gmail.com",
+    "phone": "891-803-3929",
+    "github":"https://github.com/webobite",
+    "project":"",
+    "address":{
+      "street":"CV Raman Nagar",
+      "city":"Bangalore",
+      "state":"Karnataka",
+      "zip": "560093"
+    },
+    "website": "https://devlopersubham.wordpress.com/",
+    "resumedownload":"#",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/subhamSet2Singh",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/subham-singh-84331812a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/_____subham_____/?hl=en",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"PES University, Bangalore",
+        "degree":"Masters in Computer Application",
+        "graduated":"July 2020",
+        "description":""
+      },
+      {
+        "school":"Asansol Engineering College, Asansol, West Bengal",
+        "degree":"Bachelors in Computer Application",
+        "graduated":"July 2018",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"TS Digisol",
+        "title":"Full Stack Developer Intern ",
+        "years":"July 2020 - Present",
+        "description":"Working as a core member of development team for development of TS digisol Omni channel Platform. Extensively working in frontend tech stact for web development and React Native for Mobile Development platform of TS digisol."
+      },
+      {
+        "company":"Meltwater Software Pvt Ltd",
+        "title":"Solution Engineering Intern",
+        "years":"January 2020 - July 2020",
+        "description":"Worked on an API development project for Meltwater Clients. Build the product as per industry standard along with team mate. Worked in highly agile methodology for Software development. Worked extensively from requirement, design, coding and testing of the overall application. Deployed application with CI/CD deployment method too."
+      },
+      {
+        "company":"NESA Medtech Pvt Ltd",
+        "title":"Software Intern",
+        "years":"June 2019 - August 2019",
+        "description":"Identifying different optimal deployment solution for NESA Application. Responsible for testing the NESA application’s image processing algorithm and structuring the same for the development team. Worked on algorithms based on some area of computer vision with Open CV Python Package."
+      }
+    ],
+    "skills":[
+      {
+        "name":"NodeJs",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"55%"
+      },
+      {
+        "name":"Angular",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      },
+      {
+        "name":"Docker",
+        "level":"70%"
+      },
+      {
+        "name":"Git",
+        "level":"100%"
+      },
+      {
+        "name":"CI/CD",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Online Book Store",
+        "category":"A Online Book store for WBUT students",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://makaut.in/"
+      },
+      {
+        "title":"My Personal Blogs Website",
+        "category":"An Inspirational Website of mine",
+        "image":"fury-fighting-gear.jpg",
+        "url":"https://inspiringmind.home.blog"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  }
+}
