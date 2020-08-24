@@ -46,7 +46,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Here are some of my skills. Will be adding more once I accquire those too. Thank You !!",
     "education":[
       {
         "school":"PES University, Bangalore",
@@ -83,43 +83,43 @@
     ],
     "skills":[
       {
-        "name":"NodeJs",
+        "name":"NodeJs backend API development",
         "level":"70%"
       },
       {
-        "name":"ReactJs",
+        "name":"ReactJs Web app development",
         "level":"55%"
       },
       {
-        "name":"Angular",
+        "name":"React Native Mobile app development",
+        "level":"30%"
+      },
+      {
+        "name":"Web design UX and UI by Abobe XD",
         "level":"50%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name":"Git & Version Control tool",
+        "level":"100%"
       },
       {
-        "name":"Javascript",
-        "level":"80%"
-      },
-      {
-        "name":"Python",
-        "level":"50%"
+        "name":"Typescript",
+        "level":"100%"
       },
       {
         "name":"JAVA",
         "level":"80%"
       },
       {
+        "name":"Python Language",
+        "level":"50%"
+      },
+      {
         "name":"Docker",
         "level":"70%"
       },
       {
-        "name":"Git",
-        "level":"100%"
-      },
-      {
-        "name":"CI/CD",
+        "name":"Amazon ECS and drone.io CI/CD with Github Integration",
         "level":"100%"
       }
     ]
@@ -128,33 +128,27 @@
     "projects": [
       {
         "title":"Online Book Store",
-        "category":"A Online Book store for WBUT students",
-        "image":"canadian-wanderlust.jpg",
+        "category":"A Online Book store for WBUT University students",
+        "image":"onlineBookStore.jpg",
         "url":"https://makaut.in/"
       },
       {
         "title":"My Personal Blogs Website",
-        "category":"An Inspirational Website of mine",
-        "image":"fury-fighting-gear.jpg",
+        "category":"An Inspirational Website of mine designed on WordPress platform.",
+        "image":"inspiringMindBlog.png",
         "url":"https://inspiringmind.home.blog"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Demoable Datting APP api service",
+        "category":"Source code of dating App api service backend design and API debelopment in Typescript.",
+        "image":"datingAppAPI.png",
+        "url":"https://github.com/webobite/Dating-App-API-Backend"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"A Command Line Application for calculating GST in India",
+        "category":"Source code of cmd line application for gst calculation of developed in JAVA.",
+        "image":"gst-calculator-project.jpg",
+        "url":"https://github.com/webobite/GSTCalculator"
       }
     ]
   }
